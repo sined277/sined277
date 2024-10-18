@@ -8,7 +8,7 @@ Hi! 👋 My name is Dennis
 ----------------------------
 
 * 🌍  I'm located in the Ukraine
-* 🖥️  See my portfolio at <code>[https://t.me/portfoliosined2](https://t.me/portfoliosined2)]</code>
+* 🖥️  See my portfolio at <code>[https://t.me/ssiined2](https://t.me/ssiined2)</code>
 * ✉️  You can contact me at <code>[apenixtoo2@gmail.com](mailto:apenixtoo2@gmail.com)</code>
 * 🧠  I'm learning Web Development
 
